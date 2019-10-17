@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\e0310994\Documents\GitHub\ROS-inverse-kinematics-visual-progammer\ThreeJSApplication6\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ThreeJSApplication6.dll">
+      <publishTime>08/15/2019 14:04:44</publishTime>
+    </File>
+    <File Include="bin/ThreeJSApplication6.pdb">
+      <publishTime>08/15/2019 14:04:44</publishTime>
+    </File>
+    <File Include="HtmlPage1.html">
+      <publishTime>08/14/2019 14:55:51</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/14/2019 14:55:51</publishTime>
+    </File>
+    <File Include="Scripts/FileSaver.min.js">
+      <publishTime>08/14/2019 14:55:51</publishTime>
+    </File>
+    <File Include="Scripts/three.js">
+      <publishTime>08/14/2019 14:55:51</publishTime>
+    </File>
+    <File Include="Scripts/XMLWriter-1.0.0 %282%29.js">
+      <publishTime>08/14/2019 14:55:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/15/2019 14:04:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -4,3 +4,10 @@ C:\Users\stujk\Documents\Visual Studio 2013\Projects\Test Releases\ThreeJSApplic
 C:\Users\stujk\Documents\Visual Studio 2013\Projects\Test Releases\ThreeJSApplication6\ThreeJSApplication6\obj\Debug\ThreeJSApplication6.dll
 C:\Users\stujk\Documents\Visual Studio 2013\Projects\Test Releases\ThreeJSApplication6\ThreeJSApplication6\obj\Debug\ThreeJSApplication6.pdb
 C:\Users\stujk\Documents\Visual Studio 2013\Projects\Test Releases\ThreeJSApplication6\ThreeJSApplication6\obj\Debug\ThreeJSApplication6.csprojResolveAssemblyReference.cache
+C:\Users\e0310994\Documents\GitHub\ROS-inverse-kinematics-visual-progammer\ThreeJSApplication6\bin\ThreeJSApplication6.dll.config
+C:\Users\e0310994\Documents\GitHub\ROS-inverse-kinematics-visual-progammer\ThreeJSApplication6\bin\ThreeJSApplication6.dll
+C:\Users\e0310994\Documents\GitHub\ROS-inverse-kinematics-visual-progammer\ThreeJSApplication6\bin\ThreeJSApplication6.pdb
+C:\Users\e0310994\Documents\GitHub\ROS-inverse-kinematics-visual-progammer\ThreeJSApplication6\obj\Debug\ThreeJSApplication6.csprojAssemblyReference.cache
+C:\Users\e0310994\Documents\GitHub\ROS-inverse-kinematics-visual-progammer\ThreeJSApplication6\obj\Debug\ThreeJSApplication6.csproj.CoreCompileInputs.cache
+C:\Users\e0310994\Documents\GitHub\ROS-inverse-kinematics-visual-progammer\ThreeJSApplication6\obj\Debug\ThreeJSApplication6.dll
+C:\Users\e0310994\Documents\GitHub\ROS-inverse-kinematics-visual-progammer\ThreeJSApplication6\obj\Debug\ThreeJSApplication6.pdb
